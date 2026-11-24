@@ -1,64 +1,132 @@
-<h1 align="center">Hello there! I am Om Chaudhary</h1>
-<h3 align="center">A Competitive Programming & DSA Enthusiast</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/I-m-OM?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/I-m-OM?style=social)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://om-chaudhary.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/om-chaudhary-921a691b6)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Problems-orange)](https://leetcode.com/u/I_m_OM/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-lightblue)](https://codeforces.com/profile/I_m_OM)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=I-m-OM&label=Profile%20views%20%F0%9F%91%80&color=0eb456&style=plastic" alt="I-m-OM" /> </p>
+# Om Chaudhary
 
-Hi! I'm **Electrical Engineering** student at IIT Jammu. I'm focused on **full-stack development**, **competitive programming**, and solving real-world problems through code. Here's a quick overview of my skills and tools I use.
+### Software Engineer @ Microsoft | Distributed Systems | Competitive Programming
 
-- 🔭 I have worked on **algorithms for image analysis and fractal dimension calculations** as a **Research Intern at IIT Kanpur (2024)**.
-- 🌱 I’m currently learning **Machine Learning and AI**, with a focus on applying these in software projects.
-- ⚡ I’m passionate about **problem-solving, coding, data structures & algorithms**.
-
----
-
-## 🔧 **Skills**
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Frameworks
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+<p align="left">
+  <a href="https://www.linkedin.com/in/om-chaudhary-921a691b6">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://om-chaudhary.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=flat&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/I_m_OM/">
+    <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/I_m_OM">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="mailto:im.om.chaudhary@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 **GitHub Stats**
+## About Me
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-m-OM&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-m-OM&layout=compact&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=I-m-OM&theme=dark" alt="I-m-OM" /></p>
+I'm a Software Engineer at **Microsoft**, working on **Azure Files**, contributing to distributed storage infrastructure and large-scale systems.
+
+I graduated with a **B.Tech in Electrical Engineering from IIT Jammu**, where I developed a strong foundation in algorithms, problem-solving, and software engineering.
+
+My interests lie at the intersection of distributed systems, backend engineering, cloud infrastructure, and AI.
+
+- 💼 **Currently:** Software Engineer at Microsoft, working on Azure Files.
+- ⚙️ **Engineering:** Distributed systems, concurrency, reliability, and scalable backend services.
+- 🧠 **Problem Solving:** 4-star CodeChef coder (peak rating: 1862) with 1,000+ DSA problems solved.
+- 🤖 **AI/ML:** Experience in LLM evaluation, data curation, model alignment, and adversarial code evaluation.
+- 🔬 **Research:** Previously worked on fractal-based image analysis at IIT Kanpur.
 
 ---
 
-## 🌐 **Reach Me**
+## Experience Highlights
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/om-chaudhary-921a691b6)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Problems-orange)](https://leetcode.com/u/I_m_OM/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-lightblue)](https://codeforces.com/profile/I_m_OM)  
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:2022UEE0143@iitjammu.ac.in)
+| Organization | Role | Focus |
+|---|---|---|
+| **Microsoft** | Software Engineer – Azure Files | Distributed storage systems, reliability, scalability |
+| **Outlier AI** | AI Trainer & LLM Evaluator | LLM evaluation, tool-use assessment, data quality |
+| **Datacurve AI** | Coding Domain Specialist | Adversarial testing, Rust/Python, unit testing |
+| **Microsoft** | Software Engineer Intern – Azure Networking | C#, .NET Core, CI/CD automation |
+| **IIT Kanpur** | Research Intern | Fractal dimension, image processing, Python |
 
 ---
 
+## Technical Skills
 
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,cs,python" />
+</p>
+
+**Frameworks & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,dotnet,spring,html,css" />
+</p>
+
+**Databases & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,azure,postman,vscode,idea" />
+</p>
+
+**Additional Areas**
+
+- Distributed Systems & Backend Engineering
+- Data Structures & Algorithms
+- REST APIs & CI/CD
+- LLM Evaluation & Data Annotation
+- Unit Testing & Debugging
+- Image Processing & Numerical Algorithms
+
+---
+
+## Competitive Programming
+
+I enjoy tackling challenging algorithmic problems and continuously improving my problem-solving skills.
+
+<p>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+    <img src="https://img.shields.io/badge/CodeChef-4%20Star%20%7C%201862-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/I_m_OM/">
+    <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+- **CodeChef:** 4-star coder, peak rating of 1862.
+- **DSA:** 1,000+ problems solved across coding platforms.
+- **JEE Advanced 2022:** All India Rank 9149.
+- **KVPY SX 2022:** All India Rank 3460.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=I-m-Om&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-m-Om&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=I-m-Om&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing software engineering, distributed systems, competitive programming, and emerging technologies.
+
+- **LinkedIn:** [Om Chaudhary](https://www.linkedin.com/in/om-chaudhary-921a691b6)
+- **Portfolio:** [om-chaudhary.netlify.app](https://om-chaudhary.netlify.app)
+- **Email:** [im.om.chaudhary@gmail.com](mailto:im.om.chaudhary@gmail.com)
+- **LeetCode:** [I_m_OM](https://leetcode.com/u/I_m_OM/)
+- **Codeforces:** [I_m_OM](https://codeforces.com/profile/I_m_OM/)
+
+---
+
+<p align="center">
+  <i>Building scalable systems, solving challenging problems, and learning something new every day.</i>
+</p>
